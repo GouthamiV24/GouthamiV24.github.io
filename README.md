@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=200&section=header&text=Gouthami%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Systems%20Engineer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=8b5cf6&amp;height=200&amp;section=header&amp;text=Gouthami%20V&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Science%20%26%20AI&amp;descAlignY=55&amp;descAlign=50" />
   
   <p align="center">
     <b>An award-winning, highly interactive portfolio built with Next.js, Framer Motion, and Three.js</b>
   </p>
   
   <div align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js" />
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&amp;logo=framer&amp;logoColor=white" alt="Framer Motion" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind" />
   </div>
 </div>
 
@@ -52,15 +52,15 @@ This portfolio is designed to be an immersive, premium web experience rather tha
 - **3D / WebGL**: [Three.js](https://threejs.org/) + [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/)
 - **Smooth Scroll**: [Lenis](https://lenis.studiofreight.com/) by Studio Freight
 - **Icons**: [Lucide React](https://lucide.dev/) (optimized via inline SVGs)
-- **Deployment**: Configured for static HTML export on GitHub Pages
+- **Deployment**: GitHub Pages + Vercel
 
 ## 🚀 Running Locally
 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/GouthamiV24/gouthami.github.io.git
-cd gouthami.github.io
+git clone https://github.com/GouthamiV24/GouthamiV24.github.io.git
+cd GouthamiV24.github.io
 npm install
 ```
 

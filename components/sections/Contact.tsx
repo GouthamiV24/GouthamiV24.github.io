@@ -221,7 +221,7 @@ export default function Contact() {
             </div>
           </MagneticButton>
           
-          <MagneticButton href="https://github.com/gouthami">
+          <MagneticButton href="https://github.com/GouthamiV24">
             <div className="px-6 py-3 rounded-full glass text-white text-sm font-medium tracking-wide hover:bg-white/10 transition-all duration-300 flex items-center gap-2">
               GitHub
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">

@@ -138,7 +138,7 @@ export default function Navbar() {
         animate={{ opacity: 1 }}
         transition={{ delay: 1.8 }}
       >
-        <a href="https://github.com/gouthami" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
+        <a href="https://github.com/GouthamiV24" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
           <GithubIcon className="w-5 h-5" />
         </a>
         <a href="mailto:gouthamiyadu05@gmail.com" className="text-gray-400 hover:text-white transition-colors">
@@ -187,7 +187,7 @@ export default function Navbar() {
               </motion.a>
             ))}
             <motion.div variants={linkVariants} className="flex gap-6 mt-8">
-              <a href="https://github.com/gouthami" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+              <a href="https://github.com/GouthamiV24" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
                 <GithubIcon className="w-6 h-6" />
               </a>
               <a href="mailto:gouthamiyadu05@gmail.com" className="text-gray-400 hover:text-white">

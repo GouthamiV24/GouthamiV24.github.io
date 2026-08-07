@@ -1,17 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=8b5cf6&amp;height=200&amp;section=header&amp;text=Gouthami%20V&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Science%20%26%20AI&amp;descAlignY=55&amp;descAlign=50" />
+
+  # ⚡ Gouthami V
   
-  <p align="center">
-    <b>An award-winning, highly interactive portfolio built with Next.js, Framer Motion, and Three.js</b>
-  </p>
+  ### Computer Science · AI
   
-  <div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Award-Winning+Interactive+Portfolio;Built+with+Next.js+%2B+Three.js+%2B+Framer+Motion;3D+WebGL+%7C+Fluid+Simulations+%7C+Cinematic+Intro)](https://git.io/typing-svg)
+
+  <p>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js" />
     <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&amp;logo=framer&amp;logoColor=white" alt="Framer Motion" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind" />
-  </div>
+  </p>
+
 </div>
 
 <br />

@@ -7,7 +7,7 @@ export default function ElasticIndicator() {
   const [scrollDir, setScrollDir] = useState<"down" | "up" | "idle">("idle");
   const [velocity, setVelocity] = useState(0);
   const lastScrollY = useRef(0);
-  const timeout = useRef<NodeJS.Timeout>();
+  const timeout = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -20,7 +20,7 @@ export default function ElasticIndicator() {
       lastScrollY.current = currentY;
 
       // Reset to idle after scroll stops
-      clearTimeout(timeout.current);
+      if (timeout.current) clearTimeout(timeout.current);
       timeout.current = setTimeout(() => {
         setScrollDir("idle");
         setVelocity(0);
@@ -30,7 +30,7 @@ export default function ElasticIndicator() {
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => {
       window.removeEventListener("scroll", handleScroll);
-      clearTimeout(timeout.current);
+      if (timeout.current) clearTimeout(timeout.current);
     };
   }, []);
 

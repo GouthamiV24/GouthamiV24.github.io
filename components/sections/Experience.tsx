@@ -20,7 +20,7 @@ const EXPERIENCES = [
     year: "2023 - Present",
     role: "B.Tech in Computer Science and Engineering",
     company: "Vimal Jyoti Engineering College",
-    description: "Currently pursuing a Bachelor of Technology with a CGPA of 6.84. Active volunteer in National Service Scheme (NSS) and Winner of the NSS Quiz Competition.",
+    description: "Currently pursuing a Bachelor of Technology with a CGPA of 6.96.",
   },
 ];
 
